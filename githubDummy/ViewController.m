@@ -15,6 +15,8 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    NSLog(@"@hello ram")
+    ;
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
